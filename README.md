@@ -1,0 +1,1 @@
+# Practica05-Chimbo-Tenecota-Interfaz-grafica.
